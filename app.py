@@ -9,7 +9,7 @@ from PIL import Image
 #  Page title 
 st.set_page_config(page_title="Flag Pattern Projection", page_icon="", layout="centered")
 
-st.title("Project a Pattern onto a Flag with Realistic Lighting")
+st.title("Mapping a Pattern onto a curved Surface")
 
 # Project description 
 st.sidebar.info("""
